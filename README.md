@@ -3,15 +3,15 @@
 <table>
 <tr>
   <td valign="center">
-    ☁️ I’m a Cloud data engineer and 🖊️ technical writer..<br />💻 Currently learning about SQL, Python, and data warehouses<br />  🎯 My goal is to be a great data engineer and technical writer, while contributing to open source projects <br />  
+    ☁️ I’m a Cloud data engineer and 🖊️ technical writer..<br />💻 Currently learning about SQL, Python, and data warehouses<br />  🎯 My goal is to be a great data engineer and technical writer, while contributing to open source projects <br />  Read some of my articles <a href="https://medium.com/me/stories/public">here</a>
 <td >
  </table>
   
-## 📫How to reach me
+## 🤙 Want to reach me?
 
-  <a href="https://twitter.com/Mary_Annie__"><img src="./twitter.png" width="50" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/agofure-maryann-67b144164/"><img src="./linkedin.png" width="50" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/mayrheeann_/"><img src="./instagram.png" width="50" alt="Instagram"/></a>
+  <a href="https://twitter.com/Mary_Annie__"><img src="./twitter.png" width="35" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/agofure-maryann-67b144164/"><img src="./linkedin.png" width="35" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/mayrheeann_/"><img src="./instagram.png" width="35" alt="Instagram"/></a>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maryann-Agofure&theme=dracula&hide_border=true)
   ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maryann-Agofure&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Maryann-Agofure" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maryann-Agofure&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Maryann-Agofure" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maryann-Agofure&theme=highcontrast&hide_border=true" alt="Maryann-Agofure" /> </p>
