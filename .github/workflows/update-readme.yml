@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README with recent activity
     steps:
       - uses: actions/checkout@v2
-      - uses: Maryann-Agofure/github-activity-readme@main
+      - uses: Maryann-Agofure/Maryann-Agofure-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
