@@ -20,4 +20,7 @@
 <!---
 Maryann-Agofure/Maryann-Agofure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Pixel perfect - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/social" title="social icons">Social icons created by riajulislam - Flaticon</a>
 --->
