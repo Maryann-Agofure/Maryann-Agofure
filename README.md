@@ -1,5 +1,5 @@
-# Hi, I’m Maryann 👀. 
-## You can call me Ann, that works too.
+# 👋 Hi, I’m Maryann. 
+## You can call me Ann, that works too 👀 .
 <table>
 <tr>
   <td valign="center">
@@ -9,8 +9,8 @@
   
 ## 🤙 Want to reach me?
 
-  <a href="https://twitter.com/Mary_Annie__"><img src="./twitter.png" width="35" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/agofure-maryann-67b144164/"><img src="./linkedin.png" width="35" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/Mary_Annie__"><img src="./twitter.png" width="35" alt="Twitter"/></a>  
+  <a href="https://www.linkedin.com/in/agofure-maryann-67b144164/"><img src="./linkedin.png" width="35" alt="LinkedIn"/></a>  
   <a href="https://www.instagram.com/mayrheeann_/"><img src="./instagram.png" width="35" alt="Instagram"/></a>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maryann-Agofure&theme=dracula&hide_border=true)
