@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td valign="center">
-    ☁️ I’m a Cloud data engineer and 🖊️ technical writer..<br />💻 Currently learning about SQL, Python, and data warehouses<br />  🎯 My goal is to be a great data engineer and technical writer, while contributing to open source projects <br />  Read some of my articles <a href="https://medium.com/me/stories/public">here</a>
+    ☁️ I’m a Cloud data engineer and 🖊️ technical writer..<br />💻 Currently learning about SQL, Python, and data warehouses<br />  🎯 My goal is to be a great data engineer and technical writer, while contributing to open source projects <br /> :book Read some of my articles <a href="https://medium.com/me/stories/public">here</a>
 <td >
  </table>
   
