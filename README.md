@@ -3,10 +3,7 @@
 <table>
 <tr>
   <td valign="center">
-    ☁️ I’m a Cloud data engineer.  
-    💻 Currently learning about SQL, Python, and data warehouses  
-    🎯 My Goal is to be a great data engineer and technical writer, while contributing to open source projects  
-    🖊️I'm a technical writer.
+    ☁️ I’m a Cloud data engineer.  💻 Currently learning about SQL, Python, and data warehouses  🎯 My Goal is to be a great data engineer and technical writer, while contributing to open source projects  🖊️I'm a technical writer.
 <td >
  </table>
   
