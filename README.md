@@ -3,13 +3,13 @@
 <table>
 <tr>
   <td valign="center">
-    ☁️ I’m a Cloud data engineer.<br />💻 Currently learning about SQL, Python, and data warehouses<br />  🎯 My Goal is to be a great data engineer and technical writer, while contributing to open source projects <br />  🖊️I'm a technical writer.
+    ☁️ I’m a Cloud data engineer and 🖊️ technical writer..<br />💻 Currently learning about SQL, Python, and data warehouses<br />  🎯 My goal is to be a great data engineer and technical writer, while contributing to open source projects <br />  
 <td >
  </table>
   
 ## 📫How to reach me
 
-  <a href="https://twitter.com/Mary_Annie__"><img src="" width="300" alt="Twitter"/></a>
+  <a href="https://twitter.com/Mary_Annie__"><img src="./twitter.png" width="300" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/agofure-maryann-67b144164/"><img src="" width="300" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/mayrheeann_/"><img src="" width="300" alt="Instagram"/></a>
   
