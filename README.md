@@ -10,8 +10,8 @@
 ## 📫How to reach me
 
   <a href="https://twitter.com/Mary_Annie__"><img src="./twitter.png" width="50" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/agofure-maryann-67b144164/"><img src="./linkedin" width="50" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/mayrheeann_/"><img src="./instagram" width="50" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/agofure-maryann-67b144164/"><img src="././linkedin" width="50" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/mayrheeann_/"><img src="./././instagram" width="50" alt="Instagram"/></a>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maryann-Agofure&theme=dracula&hide_border=true)
   ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maryann-Agofure&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Maryann-Agofure" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maryann-Agofure&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Maryann-Agofure" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maryann-Agofure&theme=highcontrast&hide_border=true" alt="Maryann-Agofure" /> </p>
